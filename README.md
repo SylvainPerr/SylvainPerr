@@ -1,4 +1,4 @@
-# 👋 About Me
+#  About Me
 
 I am a Master’s student in Economic and Financial Information Systems (MBFA – SIEF) at the University of Montpellier.  
 I work across several data-driven domains including finance, economics, public data, and sports analytics.  
@@ -8,9 +8,9 @@ I enjoy designing clean datasets, exploring complex statistical patterns, and tu
 
 ---
 
-# ⚙️ Skills & Tools
+#  Skills & Tools
 
-## Programming Languages
+##Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
