@@ -1,7 +1,7 @@
 # 👋 About Me
 
 I am a Master’s student in Economic and Financial Information Systems (MBFA – SIEF) at the University of Montpellier.  
-I work across several data-driven domains including finance, economics, public data, and sports analytics (NBA).  
+I work across several data-driven domains including finance, economics, public data, and sports analytics.  
 My focus is on building complete data pipelines: data extraction, cleaning, modeling, machine learning, visualization, and interactive apps.
 
 I enjoy designing clean datasets, exploring complex statistical patterns, and turning raw data into readable insights or high-quality dashboards.
