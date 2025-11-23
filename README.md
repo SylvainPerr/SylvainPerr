@@ -74,9 +74,7 @@ I enjoy designing clean datasets, exploring complex statistical patterns, and tr
 https://www.linkedin.com/in/sylvain-perraudin-21022a354
 </a>
 
-**Email**  
 
- sylvainperraudin@outlook.fr 
 
 
 
